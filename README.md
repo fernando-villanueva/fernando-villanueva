@@ -131,6 +131,14 @@
 ###
 
 <div align="center">
+  <a href="https://open.spotify.com/user/g6vgo0037rb74yjwd9sui5f5c">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=g6vgo0037rb74yjwd9sui5f5c&count=3" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
   <img height="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazFqenVhdTkzYmJrY3Zhd2dyaWQzNnd5aTVhd2czMDQ0MW1kb3locyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xxsM6g2wBg0CoNq0LI/giphy.gif"  />
 </div>
 
