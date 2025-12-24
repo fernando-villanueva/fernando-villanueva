@@ -117,10 +117,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=fernando-villanueva&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=fernando-villanueva&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<h3 align="center">🙈👀 Views  👀🙈</h3>
 
 ###
 
@@ -130,11 +127,19 @@
 
 ###
 
+<h3 align="center">🎵🎶 My music 🎶🎵</h3>
+
+###
+
 <div align="center">
   <a href="https://open.spotify.com/user/g6vgo0037rb74yjwd9sui5f5c">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=g6vgo0037rb74yjwd9sui5f5c&count=3" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<h3 align="center">“If you don’t take risks, you can’t create a future.” 👒☠️</h3>
 
 ###
 
